@@ -9,7 +9,7 @@ Hello! I'm Clément, a student at Umeå University and University of Côte d'Azu
 Here's some projects showcasing my journey in development.
 
 - Depine: An IT onboarding automation app, WIP.
-- [Hyat](https://github.com/Clemouz/HYAT): Hyat.fr is a web solution designed to facilitate collaboration through virtual sticky notes.
+- [Hyat](https://clemouz.github.io/HYAT/index.html): Hyat is a web solution designed to facilitate collaboration through virtual sticky notes.
 
 ## 📫 How to Reach Me:
 
